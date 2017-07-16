@@ -13,3 +13,7 @@ Una vez terminado..
 <strong>Paso 3:</strong> Abrir otra terminal, posicionarla en el repositorio:
 
 ```npm run sfs```
+
+Ir al navegador y escribir:
+
+http://localhost:3000/
